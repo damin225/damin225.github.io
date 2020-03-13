@@ -3,9 +3,9 @@ layout: page
 published: true
 ---
 
-I am a PhD student in the Computer Science Department at University of Virginia. My advisor is Prof. Hongning Wang. I am interested in Machine Learning and its applications in information retrieval, data mining. My Current research focus: contextual bandits in non-stationary, multi-agent settings.
+I am a 2nd year PhD student in Computer Science at University of Virginia. My advisor is [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). I am broadly interested in machine learning and its applications to information retrieval and data mining. My Current research focus: contextual bandits in non-stationary, multi-agent settings.
 
-I received my Bachelor and Master degree from Harbin Institute of Technology in 2016 and 2018, respectively.
+I received my Bachelor degree and Master degree from Harbin Institute of Technology in 2016 and 2018, respectively.
 
 Link to my [CV](https://cyrilli.github.io/CV.pdf)
 
