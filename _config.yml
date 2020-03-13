@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Sudeep Raja
+name: Chuanhao Li
 
 # Short bio or description (displayed in the header)
-description: Doctoral Student at Columbia University
-  
+description: Doctoral Student at University of Virginia
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://sudeepraja.github.io/images/MDP.PNG
+avatar: https://cyrilli.github.io/images/portrait_photo.png
+
 #
 # Flags below are optional
 #
@@ -17,30 +18,30 @@ avatar: https://sudeepraja.github.io/images/MDP.PNG
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: sudeepraja.putta@columbia.edu
-  facebook: sudeep.raja
+  email: cl5ev@virginia.edu
+  facebook:
   flickr:
-  github: sudeepraja
+  github: cyrilli
   instagram:
-  linkedin: sudeep-raja-64393160
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: SudeepRaja94
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: u/0/+sudeeprajaputta/posts # anything in your profile username that comes after plus.google.com/
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: sudeepraja
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-77769902-1
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: sudeepraja.github.io
+url: http://cyrilli.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
