@@ -12,7 +12,7 @@ I received my Bachelor degree and Master degree from Harbin Institute of Technol
 - Email: cl5ev at virginia.edu
 
 ## News
-   - Paper accepted for presentation at AISTATS 2021.
+   - Paper accepted by AISTATS 2021.
 
 <!-- ---
 ## News
