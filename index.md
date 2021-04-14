@@ -12,7 +12,8 @@ I received my Bachelor degree and Master degree from Harbin Institute of Technol
 - Email: cl5ev at virginia.edu
 
 ## News
-   - Paper accepted by AISTATS 2021.
+   - Paper titled When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution accepted by SIGIR 2021.
+   - Paper titled Unifying Clustered and Non-stationary Bandits accepted by AISTATS 2021.
 
 <!-- ---
 ## News
