@@ -26,5 +26,5 @@ I received my Bachelor degree and Master degree from [Harbin Institute of Techno
 
 ## **Employment**
 
-- [Summer 20] Data Scientist Intern, Walmart Labs
+- [Summer 2020] Data Scientist Intern, Walmart Labs
   - Online Grocery User Sequential Modeling
