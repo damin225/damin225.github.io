@@ -6,7 +6,7 @@ I am a PhD student in Computer Science at [University of Virginia](https://www.v
 
 I received my Bachelor degree and Master degree from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively.
 
-- Link to my [CV](https://cyrilli.github.io/CV.pdf)
+- [Curriculum Vitae](https://cyrilli.github.io/CV.pdf)
 - Email: cl5ev at virginia.edu
 
 ## **News**
