@@ -18,5 +18,5 @@ I received my Bachelor degree and Master degree from Harbin Institute of Technol
 ## **Publications**
 [Google Scholar](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 <h3>2021</h3>
-   - [Unifying Clustered and Non-stationary Bandits](http://proceedings.mlr.press/v130/li21c/li21c.pdf) <br />**Chuanhao Li**, Qingyun Wu, Hongning Wang<br /> AISTATS 2021.
-   - When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution <br />**Chuanhao Li**, Qingyun Wu, Hongning Wang<br /> SIGIR 2021.
+   - [Unifying Clustered and Non-stationary Bandits](http://proceedings.mlr.press/v130/li21c/li21c.pdf), **Chuanhao Li**, Qingyun Wu, Hongning Wang, AISTATS 2021.
+   - When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution, **Chuanhao Li**, Qingyun Wu, Hongning Wang, SIGIR 2021.
