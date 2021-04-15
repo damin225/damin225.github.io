@@ -23,3 +23,8 @@ I received my Bachelor degree and Master degree from [Harbin Institute of Techno
 ### 2021
 - **Chuanhao Li**, Qingyun Wu, Hongning Wang, [Unifying Clustered and Non-stationary Bandits](http://proceedings.mlr.press/v130/li21c/li21c.pdf), AISTATS 2021.
 - **Chuanhao Li**, Qingyun Wu, Hongning Wang, When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution, SIGIR 2021.
+
+## **Employment**
+
+- [Summer 20] Data Scientist Intern, Walmart Labs
+  - Online Grocery User Sequential Modeling
