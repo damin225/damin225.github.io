@@ -8,6 +8,7 @@ I received my Bachelor degree and Master degree from [Harbin Institute of Techno
 
 - [Curriculum Vitae](https://cyrilli.github.io/CV.pdf)
 - Email: cl5ev at virginia.edu
+- Address: Rice Hall, 85 Engineer's Way, Charlottesville, VA
 
 ## **News**
 - 04/14/2021: One full research paper accepted by SIGIR 2021!
