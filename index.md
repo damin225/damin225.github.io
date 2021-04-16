@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: ture
 ---
 
 I am a PhD student in Computer Science at [University of Vanderbilt](https://www.vanderbilt.edu/) under the supervision of professor [Tyler Derr](https://tylersnetwork.github.io/). 
