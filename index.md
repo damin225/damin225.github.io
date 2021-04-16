@@ -2,13 +2,17 @@
 layout: page
 published: true
 ---
-I am a PhD student in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). I am broadly interested in machine learning and its applications to information retrieval and data mining. My Current research focus: contextual bandits in non-stationary, multi-agent settings.
 
+## **About**
+I am a PhD student in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). 
 I received my Bachelor degree and Master degree from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively.
 
 - [Curriculum Vitae](https://cyrilli.github.io/CV.pdf)
 - Email: cl5ev at virginia.edu
 - Address: Rice Hall, 85 Engineer's Way, Charlottesville, VA
+
+## **Research**
+I am broadly interested in machine learning / statistical learning methods and their applications to information retrieval and data mining. My current research focus is contextual bandits, e.g., with consideration of non-stationary reward distribution, collaborative learning, communication efficiency / privacy in distributed setting, etc.
 
 ## **News**
 - 04/14/2021: One full research paper accepted by SIGIR 2021!
@@ -28,3 +32,8 @@ I received my Bachelor degree and Master degree from [Harbin Institute of Techno
 
 - [Summer 2020] Data Scientist Intern, Walmart Labs
   - Online Grocery User Sequential Modeling
+
+## **Service**
+- Reviewer / sub-reviewer: WSDM 2021, KDD 2021
+- Volunteer: KDD 2020
+
