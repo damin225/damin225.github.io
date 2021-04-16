@@ -11,7 +11,7 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 - Address: Rice Hall, 85 Engineer's Way, Charlottesville, VA
 
 ## **Research Interest**
-I am broadly interested in machine learning / statistical learning methods and their applications to information retrieval and data mining. My current research focus is contextual bandits, e.g., with consideration of non-stationary reward distribution, collaborative learning, communication efficiency / privacy in distributed setting, etc.
+I am broadly interested in machine learning / statistical learning methods and their applications to information retrieval and data mining. My current research focus is contextual bandits, e.g., with consideration of non-stationary reward distribution, collaborative learning, communication efficiency / privacy in distributed setting.
 
 ## **News**
 - 04/14/2021: One full research paper accepted by SIGIR 2021!
