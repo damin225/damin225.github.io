@@ -28,9 +28,10 @@ I am broadly interested in machine learning / statistical learning methods and t
 - **Chuanhao Li**, Qingyun Wu, Hongning Wang, [When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution](https://arxiv.org/abs/2104.07150), SIGIR 2021 (to appear).
 
 ## **Employment**
-
 - [Summer 2020] Data Scientist Intern, Walmart Labs
   - Online Grocery User Sequential Modeling
+- [Summer 2017] Research Intern, General Motors China Science Lab
+  - Visual Scene Understanding for Autonomous Vehicles
 
 ## **Service**
 - Reviewer / sub-reviewer: WSDM 2021, KDD 2021
