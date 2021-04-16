@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-I am a PhD student in Computer Science at [University of Vanderbilt](https://www.vanderbilt.edu/). My advisor is [Tyler Derr](https://tylersnetwork.github.io/). 
+I am a PhD student in Computer Science at [University of Vanderbilt](https://www.vanderbilt.edu/) under the supervision of professor [Tyler Derr](https://tylersnetwork.github.io/). 
 Before joining Vandy, I received my Bachelor degree and Master degree in Computer Science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2014 and 2018, respectively.
 
 - [Curriculum Vitae](https://marbooooo.github.io/CV.pdf)
