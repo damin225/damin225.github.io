@@ -4,7 +4,7 @@ published: ture
 ---
 
 I am a PhD student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) under the supervision of professor [Tyler Derr](https://tylersnetwork.github.io/). 
-Before joining Vandy, I received my Bachelor degree and Master degree in Computer Science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2014 and 2018, respectively.
+Before joining Vandy, I received my Bachelor degree and Master degree in Computer Science from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2018 and 2021, respectively.
 
 - [Curriculum Vitae](https://marbooooo.github.io/CV.pdf)
 - Email: yuying (dot) zhao (at) vanderbilt (dot) edu
