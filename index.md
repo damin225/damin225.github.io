@@ -3,15 +3,14 @@ layout: page
 published: true
 ---
 
-## About
 I am a PhD student in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). 
-I received my Bachelor degree and Master degree from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively.
+Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively, where I worked on machine learning for prognostic health monitoring and robotics.
 
 - [Curriculum Vitae](https://cyrilli.github.io/CV.pdf)
 - Email: cl5ev at virginia.edu
 - Address: Rice Hall, 85 Engineer's Way, Charlottesville, VA
 
-## **Research**
+## **Research Interest**
 I am broadly interested in machine learning / statistical learning methods and their applications to information retrieval and data mining. My current research focus is contextual bandits, e.g., with consideration of non-stationary reward distribution, collaborative learning, communication efficiency / privacy in distributed setting, etc.
 
 ## **News**
