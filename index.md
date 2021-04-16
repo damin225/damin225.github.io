@@ -25,7 +25,7 @@ I am broadly interested in machine learning / statistical learning methods and t
 
 ### 2021
 - **Chuanhao Li**, Qingyun Wu, Hongning Wang, [Unifying Clustered and Non-stationary Bandits](http://proceedings.mlr.press/v130/li21c/li21c.pdf), AISTATS 2021.
-- **Chuanhao Li**, Qingyun Wu, Hongning Wang, When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution, SIGIR 2021 (to appear).
+- **Chuanhao Li**, Qingyun Wu, Hongning Wang, [When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution](https://arxiv.org/abs/2104.07150), SIGIR 2021 (to appear).
 
 ## **Employment**
 
