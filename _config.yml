@@ -9,7 +9,7 @@ name: Yuying Zhao (赵玉莹)
 description: Doctoral Student at Vanderbilt University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://marbooooo.github.io/images/portrait_photo.JPG
+avatar: https://yuyingzhao.github.io/images/portrait_photo.JPG
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email: yuying.zhao@vanderbilt.edu
   facebook:
   flickr:
-  github: Marboooo
+  github: YuyingZhao
   instagram:
-  linkedin: 
+  linkedin: zhaoyuying0918@gmail.com
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://marbooooo.github.io
+url: http://yuyingzhao.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
