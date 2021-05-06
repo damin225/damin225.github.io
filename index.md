@@ -18,8 +18,8 @@ My interest lies in graph mining. I am fascinated by the powerful representation
 ## **Publications**
 - [DSE journal] Maximizing Influence over Streaming Graphs with Query Sequence
   - **Yuying Zhao**, Yunfei Hu, Pingpeng Yuan, Hai Jin
-  - [\[paper\]](https:)
+  - [\[Paper\]](https:)
 - [CSCWD] Grace: An Efficient Parallel SPARQL Query System over Large-Scale RDF Data
   - Xiang Kang, **Yuying Zhao**, Pingpeng Yuan, Hai Jin
-  - [\[Paper\]](https:)[\[PPT\]]()[\[Video\]]()
+  - [\[Paper\]](https:) [\[PPT\]]() [\[Video\]]()
 
