@@ -12,6 +12,7 @@ I am an incoming PhD student in Computer Science at [Vanderbilt University](http
 My interest lies in graph mining. I am fascinated by the powerful representation ability of graphs. I am broadly interested in analyzing all kinds of graph data, ranging from social media networks, coauthorship relationships, biology graphs, and so on. My current research focus is dynamic graph learning. I have conducted researches on influence maximization and plan to use machine learning techniques to further explore this field. Instead of focusing on the theoretical guarantee, I hope to see what other interesting patterns and contents can be driven from the diffusion process to better understand human behavior. For example, learn how the influence between two individuals might change.
 
 ## **News**
+- 05/2021: Accepted by the [ICWSM-21 Scholarship Program](https://www.icwsm.org/2021/index.html).
 - 04/2021: Our paper "Maximizing Influence over Streaming Graphs with Query Sequence" is accepted by [DSE journal](https://www.springer.com/journal/41019).  
 - 03/2021: Awarded an IBM Fellowship.
 
