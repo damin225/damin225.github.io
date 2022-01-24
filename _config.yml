@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Damin Xia ()
+name: Damin Xia (夏大旻)
 
 # Short bio or description (displayed in the header)
-description: Doctoral Student at Vanderbilt University
+description: PhD Student at Vanderbilt University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://damin225.github.io/images/portrait_photo.jpg
+avatar: https://damin225.github.io/images/portrait_damin.jpeg
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://damin225.github.io/images/portrait_photo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yuying.zhao@vanderbilt.edu
+  email: damin.xia@vanderbilt.edu
   facebook:
   flickr:
   github: damin225
   instagram:
-  linkedin: yy-zhao
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://yuyingzhao.github.io
+url: http://damin225.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
